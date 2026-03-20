@@ -30,7 +30,7 @@
     </dependencies>
 
     <build>
-        <finalName>Calculator</finalName>
+        <finalName>ShoppingCart</finalName>
         <plugins>
             <!-- Maven Compiler Plugin -->
             <plugin>
@@ -50,7 +50,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>Calculator</mainClass>
+                            <mainClass>ShoppingCart</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
